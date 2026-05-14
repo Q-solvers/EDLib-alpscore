@@ -1,0 +1,5 @@
+build/
+build-*/
+.ipynb_checkpoints/
+*.swp
+.DS_Store
