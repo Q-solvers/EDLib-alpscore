@@ -1,5 +1,5 @@
-#ifndef EDLIB_STATICOBSERVABLES_H
-#define EDLIB_STATICOBSERVABLES_H
+#ifndef EDLIB_ALPSCORE_STATICOBSERVABLES_H
+#define EDLIB_ALPSCORE_STATICOBSERVABLES_H
 
 #include <string>
 
@@ -7,7 +7,7 @@
 
 #include "edlib/alpscore/EigenPair.h"
 #include "edlib/alpscore/ParamsBridge.h"
-#include "edlib/core/StaticObservables.h"
+#include "edlib/StaticObservables.h"
 
 namespace EDLib {
 

@@ -1,5 +1,5 @@
-#ifndef EDLIB_HUBBARDMODEL_H
-#define EDLIB_HUBBARDMODEL_H
+#ifndef EDLIB_ALPSCORE_HUBBARDMODEL_H
+#define EDLIB_ALPSCORE_HUBBARDMODEL_H
 
 #include <complex>
 #include <string>
@@ -15,7 +15,7 @@
 
 #include "edlib/alpscore/CommonUtils.h"
 #include "edlib/alpscore/ParamsBridge.h"
-#include "edlib/core/HubbardModel.h"
+#include "edlib/HubbardModel.h"
 #include "edlib/alpscore/FermionicModel.h"
 #include "edlib/alpscore/SzSymmetry.h"
 

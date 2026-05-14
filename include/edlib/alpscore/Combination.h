@@ -1,7 +1,7 @@
-#ifndef EDLIB_COMBINATION_H
-#define EDLIB_COMBINATION_H
+#ifndef EDLIB_ALPSCORE_COMBINATION_H
+#define EDLIB_ALPSCORE_COMBINATION_H
 
-#include "edlib/core/Combination.h"
+#include "edlib/Combination.h"
 
 namespace EDLib {
   using Combination = ::edlib::Combination;

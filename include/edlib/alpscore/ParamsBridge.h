@@ -1,12 +1,12 @@
-#ifndef EDLIB_COMPAT_PARAMSBRIDGE_H
-#define EDLIB_COMPAT_PARAMSBRIDGE_H
+#ifndef EDLIB_ALPSCORE_COMPAT_PARAMSBRIDGE_H
+#define EDLIB_ALPSCORE_COMPAT_PARAMSBRIDGE_H
 
 #ifdef EDLIB_WITH_ALPSCORE
 
 #include <cstddef>
 #include <alps/params.hpp>
 
-#include "edlib/core/Parameters.h"
+#include "edlib/Parameters.h"
 
 namespace EDLib {
   namespace compat {

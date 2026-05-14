@@ -1,7 +1,7 @@
-#ifndef EDLIB_EIGENPAIR_H
-#define EDLIB_EIGENPAIR_H
+#ifndef EDLIB_ALPSCORE_EIGENPAIR_H
+#define EDLIB_ALPSCORE_EIGENPAIR_H
 
-#include "edlib/core/EigenPair.h"
+#include "edlib/EigenPair.h"
 
 namespace EDLib {
   template <class Precision, class SectorType>

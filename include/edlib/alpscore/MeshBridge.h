@@ -1,12 +1,12 @@
-#ifndef EDLIB_COMPAT_MESHBRIDGE_H
-#define EDLIB_COMPAT_MESHBRIDGE_H
+#ifndef EDLIB_ALPSCORE_COMPAT_MESHBRIDGE_H
+#define EDLIB_ALPSCORE_COMPAT_MESHBRIDGE_H
 
 #ifdef EDLIB_WITH_ALPSCORE
 
 #include <alps/gf/grid.hpp>
 #include <alps/gf/mesh.hpp>
 
-#include "edlib/core/Mesh.h"
+#include "edlib/Mesh.h"
 
 namespace EDLib {
   namespace compat {

@@ -1,5 +1,5 @@
-#ifndef EDLIB_SINGLEIMPURITYANDERSONMODEL_H
-#define EDLIB_SINGLEIMPURITYANDERSONMODEL_H
+#ifndef EDLIB_ALPSCORE_SINGLEIMPURITYANDERSONMODEL_H
+#define EDLIB_ALPSCORE_SINGLEIMPURITYANDERSONMODEL_H
 
 #include <complex>
 #include <sstream>
@@ -15,7 +15,7 @@
 
 #include "edlib/alpscore/CommonUtils.h"
 #include "edlib/alpscore/ParamsBridge.h"
-#include "edlib/core/SingleImpurityAndersonModel.h"
+#include "edlib/SingleImpurityAndersonModel.h"
 #include "edlib/alpscore/FermionicModel.h"
 
 namespace EDLib {

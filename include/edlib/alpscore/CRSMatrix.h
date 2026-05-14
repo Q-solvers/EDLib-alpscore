@@ -1,7 +1,7 @@
-#ifndef EDLIB_CSRMATRIX_H
-#define EDLIB_CSRMATRIX_H
+#ifndef EDLIB_ALPSCORE_CSRMATRIX_H
+#define EDLIB_ALPSCORE_CSRMATRIX_H
 
-#include "edlib/core/CRSMatrix.h"
+#include "edlib/CRSMatrix.h"
 
 namespace EDLib {
   namespace Storage {

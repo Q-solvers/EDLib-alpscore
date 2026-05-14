@@ -1,5 +1,5 @@
-#ifndef EDLIB_HAMILTONIAN_H
-#define EDLIB_HAMILTONIAN_H
+#ifndef EDLIB_ALPSCORE_HAMILTONIAN_H
+#define EDLIB_ALPSCORE_HAMILTONIAN_H
 
 #include <alps/params.hpp>
 
@@ -9,7 +9,7 @@
 #include "edlib/alpscore/SingleImpurityAndersonModel.h"
 #include "edlib/alpscore/SpinResolvedStorage.h"
 #include "edlib/alpscore/ParamsBridge.h"
-#include "edlib/core/Hamiltonian.h"
+#include "edlib/Hamiltonian.h"
 
 namespace EDLib {
 

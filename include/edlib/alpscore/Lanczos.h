@@ -1,11 +1,11 @@
-#ifndef EDLIB_LANCZOS_H
-#define EDLIB_LANCZOS_H
+#ifndef EDLIB_ALPSCORE_LANCZOS_H
+#define EDLIB_ALPSCORE_LANCZOS_H
 
 #include <alps/params.hpp>
 
 #include "edlib/alpscore/MeshFactory.h"
 #include "edlib/alpscore/ParamsBridge.h"
-#include "edlib/core/Lanczos.h"
+#include "edlib/Lanczos.h"
 
 namespace EDLib {
   namespace gf {

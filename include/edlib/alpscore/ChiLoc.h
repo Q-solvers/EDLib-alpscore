@@ -1,5 +1,5 @@
-#ifndef EDLIB_CHILOC_H
-#define EDLIB_CHILOC_H
+#ifndef EDLIB_ALPSCORE_CHILOC_H
+#define EDLIB_ALPSCORE_CHILOC_H
 
 #include <array>
 #include <complex>
@@ -16,7 +16,7 @@
 #include "edlib/alpscore/Lanczos.h"
 #include "edlib/alpscore/MeshFactory.h"
 #include "edlib/alpscore/ParamsBridge.h"
-#include "edlib/core/ChiLoc.h"
+#include "edlib/ChiLoc.h"
 
 namespace EDLib {
   namespace gf {

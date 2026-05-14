@@ -1,11 +1,11 @@
-#ifndef EDLIB_SPINRESOLVEDSTORAGE_H
-#define EDLIB_SPINRESOLVEDSTORAGE_H
+#ifndef EDLIB_ALPSCORE_SPINRESOLVEDSTORAGE_H
+#define EDLIB_ALPSCORE_SPINRESOLVEDSTORAGE_H
 
 #include <alps/params.hpp>
 
 #include "edlib/alpscore/Storage.h"
 #include "edlib/alpscore/ParamsBridge.h"
-#include "edlib/core/SpinResolvedStorage.h"
+#include "edlib/SpinResolvedStorage.h"
 
 namespace EDLib {
   namespace Storage {

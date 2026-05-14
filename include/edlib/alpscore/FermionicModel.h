@@ -1,5 +1,5 @@
-#ifndef EDLIB_FERMIONICMODEL_H
-#define EDLIB_FERMIONICMODEL_H
+#ifndef EDLIB_ALPSCORE_FERMIONICMODEL_H
+#define EDLIB_ALPSCORE_FERMIONICMODEL_H
 
 #include <complex>
 
@@ -11,8 +11,8 @@
 #include <Eigen/LU>
 
 #include "edlib/alpscore/ParamsBridge.h"
-#include "edlib/core/CommonUtils.h"
-#include "edlib/core/FermionicModel.h"
+#include "edlib/CommonUtils.h"
+#include "edlib/FermionicModel.h"
 
 namespace EDLib {
   namespace Model {

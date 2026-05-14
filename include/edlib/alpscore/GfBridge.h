@@ -1,5 +1,5 @@
-#ifndef EDLIB_COMPAT_GFBRIDGE_H
-#define EDLIB_COMPAT_GFBRIDGE_H
+#ifndef EDLIB_ALPSCORE_COMPAT_GFBRIDGE_H
+#define EDLIB_ALPSCORE_COMPAT_GFBRIDGE_H
 
 #ifdef EDLIB_WITH_ALPSCORE
 
@@ -9,8 +9,8 @@
 #include <alps/gf/mesh.hpp>
 
 #include "edlib/alpscore/MeshBridge.h"
-#include "edlib/core/Gf.h"
-#include "edlib/core/Mesh.h"
+#include "edlib/Gf.h"
+#include "edlib/Mesh.h"
 
 namespace EDLib {
   namespace compat {

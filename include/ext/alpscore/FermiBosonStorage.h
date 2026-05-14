@@ -2,8 +2,8 @@
 // Created by iskakoff on 20/04/17.
 //
 
-#ifndef EDLIB_FERMIBOSONSTORAGE_H
-#define EDLIB_FERMIBOSONSTORAGE_H
+#ifndef EDLIB_EXT_ALPSCORE_FERMIBOSONSTORAGE_H
+#define EDLIB_EXT_ALPSCORE_FERMIBOSONSTORAGE_H
 
 
 #include <edlib/alpscore/Storage.h>
@@ -90,4 +90,4 @@ namespace EDLib {
 
   }
 }
-#endif //EDLIB_FERMIBOSONSTORAGE_H
+#endif //EDLIB_EXT_ALPSCORE_FERMIBOSONSTORAGE_H

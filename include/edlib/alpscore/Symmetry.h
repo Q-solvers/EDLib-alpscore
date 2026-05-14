@@ -1,7 +1,7 @@
-#ifndef EDLIB_SYMMETRY_H
-#define EDLIB_SYMMETRY_H
+#ifndef EDLIB_ALPSCORE_SYMMETRY_H
+#define EDLIB_ALPSCORE_SYMMETRY_H
 
-#include "edlib/core/Symmetry.h"
+#include "edlib/Symmetry.h"
 
 namespace EDLib {
   namespace Symmetry {

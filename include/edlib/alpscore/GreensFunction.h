@@ -1,5 +1,5 @@
-#ifndef EDLIB_GREENSFUNCTION_H
-#define EDLIB_GREENSFUNCTION_H
+#ifndef EDLIB_ALPSCORE_GREENSFUNCTION_H
+#define EDLIB_ALPSCORE_GREENSFUNCTION_H
 
 #include <array>
 #include <complex>
@@ -19,7 +19,7 @@
 #include "edlib/alpscore/GfBridge.h"
 #include "edlib/alpscore/MeshBridge.h"
 #include "edlib/alpscore/ParamsBridge.h"
-#include "edlib/core/GreensFunction.h"
+#include "edlib/GreensFunction.h"
 
 namespace EDLib {
   namespace gf {

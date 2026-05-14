@@ -1,5 +1,5 @@
-#ifndef EDLIB_COMMONUTILS_H
-#define EDLIB_COMMONUTILS_H
+#ifndef EDLIB_ALPSCORE_COMMONUTILS_H
+#define EDLIB_ALPSCORE_COMMONUTILS_H
 
 // Legacy bridge for the alps::gf-mesh based freq_point overloads. New code
 // should use edlib::freq_point with edlib::MatsubaraMesh / RealFreqMesh.

@@ -1,7 +1,7 @@
-#ifndef EDLIB_EXECUTIONSTATISTIC_H
-#define EDLIB_EXECUTIONSTATISTIC_H
+#ifndef EDLIB_ALPSCORE_EXECUTIONSTATISTIC_H
+#define EDLIB_ALPSCORE_EXECUTIONSTATISTIC_H
 
-#include "edlib/core/ExecutionStatistic.h"
+#include "edlib/ExecutionStatistic.h"
 
 namespace EDLib {
   namespace common {

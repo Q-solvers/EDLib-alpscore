@@ -1,11 +1,11 @@
-#ifndef EDLIB_SOCRSSTORAGE_H
-#define EDLIB_SOCRSSTORAGE_H
+#ifndef EDLIB_ALPSCORE_SOCRSSTORAGE_H
+#define EDLIB_ALPSCORE_SOCRSSTORAGE_H
 
 #include <alps/params.hpp>
 
 #include "edlib/alpscore/Storage.h"
 #include "edlib/alpscore/ParamsBridge.h"
-#include "edlib/core/SOCRSStorage.h"
+#include "edlib/SOCRSStorage.h"
 
 namespace EDLib {
   namespace Storage {

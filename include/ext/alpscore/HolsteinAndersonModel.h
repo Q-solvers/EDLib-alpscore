@@ -1,5 +1,5 @@
-#ifndef EDLIB_HOLSTEINANDERSONMODEL_H
-#define EDLIB_HOLSTEINANDERSONMODEL_H
+#ifndef EDLIB_EXT_ALPSCORE_HOLSTEINANDERSONMODEL_H
+#define EDLIB_EXT_ALPSCORE_HOLSTEINANDERSONMODEL_H
 
 #include <complex>
 #include <string>
@@ -13,7 +13,7 @@
 #include <edlib/alpscore/SingleImpurityAndersonModel.h>
 #include <edlib/alpscore/ParamsBridge.h>
 #include <ext/alpscore/SzSymmetryWithBoson.h>
-#include <ext/core/HolsteinAndersonModel.h>
+#include <ext/HolsteinAndersonModel.h>
 
 namespace EDLib {
   namespace Ext {

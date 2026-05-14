@@ -1,5 +1,5 @@
-#ifndef EDLIB_SZCOMBINATION_H
-#define EDLIB_SZCOMBINATION_H
+#ifndef EDLIB_ALPSCORE_SZCOMBINATION_H
+#define EDLIB_ALPSCORE_SZCOMBINATION_H
 
 #include <array>
 #include <string>
@@ -9,7 +9,7 @@
 #include <alps/params.hpp>
 
 #include "edlib/alpscore/ParamsBridge.h"
-#include "edlib/core/SzSymmetry.h"
+#include "edlib/SzSymmetry.h"
 
 namespace EDLib {
   namespace Symmetry {

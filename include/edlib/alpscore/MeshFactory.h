@@ -6,7 +6,7 @@
 #include <alps/params.hpp>
 
 #include "edlib/alpscore/MeshBridge.h"
-#include "edlib/core/Mesh.h"
+#include "edlib/Mesh.h"
 
 namespace EDLib {
 

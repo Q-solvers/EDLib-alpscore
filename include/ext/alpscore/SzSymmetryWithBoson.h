@@ -1,5 +1,5 @@
-#ifndef EDLIB_NSYMMETRYWITHBOSON_H
-#define EDLIB_NSYMMETRYWITHBOSON_H
+#ifndef EDLIB_EXT_ALPSCORE_NSYMMETRYWITHBOSON_H
+#define EDLIB_EXT_ALPSCORE_NSYMMETRYWITHBOSON_H
 
 #include <array>
 #include <string>
@@ -10,7 +10,7 @@
 
 #include <edlib/alpscore/HDF5Utils.h>
 #include <edlib/alpscore/ParamsBridge.h>
-#include <ext/core/SzSymmetryWithBoson.h>
+#include <ext/SzSymmetryWithBoson.h>
 
 namespace EDLib {
   namespace Symmetry {
